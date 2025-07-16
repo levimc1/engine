@@ -1,0 +1,13 @@
+build/
+*.o
+*.out
+*.exe
+*.log
+
+*.swp
+*~
+
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile

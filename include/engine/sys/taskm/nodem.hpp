@@ -1,0 +1,1 @@
+// node regisztráció, flagok, ezek.

@@ -1,0 +1,3 @@
+[submodule "engine/include/extern/entt"]
+	path = engine/include/extern/entt
+	url = https://github.com/skypjack/entt.git

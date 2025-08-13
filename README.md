@@ -2,7 +2,7 @@
 
 ## Feladatkezelő
 
-Lakik: engine/core/taskm
+Lakik: engine/core/taskm - api.hpp
 - namespace: taskm
 - több: taskm::internal
 - publikus API funkciói: *ajánlott namespace használat!*
@@ -24,6 +24,7 @@ Lakik: engine/core/taskm
     - Majd engine::use(graph) hogy az engine felimserje.
     - Visszaadja: a graph idt
 
+
 ## Funkciók
 
 Lakik: engine/core/function - Nincs api.hpp csak function.hpp
@@ -32,3 +33,4 @@ DE, az nem támogatja a paramétereket, ahoz hogy legyenek paraméterek: c++'''f
 
 ## Eventek
 
+Lakik: engine/core/eventh - api.hpp
